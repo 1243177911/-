@@ -1,0 +1,10 @@
+com\online\sso\controller\RegisterController.class
+com\online\sso\service\impl\LoginServiceImpl.class
+com\online\sso\service\RegisterService.class
+com\online\sso\service\LoginService.class
+com\online\sso\service\impl\RegisterServiceImpl.class
+com\online\sso\component\JedisClient.class
+com\online\sso\controller\LoginController.class
+com\online\sso\component\impl\JedisClientCluster.class
+com\online\sso\controller\PageController.class
+com\online\sso\component\impl\JedisClientSingle.class

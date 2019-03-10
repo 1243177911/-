@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="online-manager-mapper" />
+        <module name="online-manager-pojo" />
+        <module name="online-manager-service" />
+        <module name="online-manager-web" />
+        <module name="online-utlis" />
+        <module name="onlineportal" />
+        <module name="onlinerest" />
+        <module name="onlinesearch" />
+        <module name="onlinesso" />
+        <module name="taotao-common" />
+        <module name="taotao-manager-mapper" />
+        <module name="taotao-manager-pojo" />
+        <module name="taotao-manager-service" />
+        <module name="taotao-manager-web" />
+        <module name="taotao-portal" />
+        <module name="taotao-rest" />
+        <module name="taotao-sso" />
+        <module name="taotao.search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lixiang" target="1.5" />
+      <module name="taotaomanager" target="1.8" />
+      <module name="taotaomanagermapper" target="1.8" />
+      <module name="taotaomanagerpojo" target="1.8" />
+      <module name="taotaomanagerservice" target="1.8" />
+      <module name="taotaomanagerweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
